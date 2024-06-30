@@ -1,0 +1,1 @@
+/* Example of identifiers in C */ #include <stdio.h> void main() { int age = 25; float salary = 5000.50; printf("Age: %d\n", age); printf("Salary: %.2f\n", salary); 
